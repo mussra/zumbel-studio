@@ -12,4 +12,5 @@
 .udp-watch span{margin-left:8px}
 .udp-soon{font-size:9px;color:#b0bfd5;border-top:1px solid #ffffff16;padding-top:14px;display:block}
 @media(max-width:900px){.udp-grid{grid-template-columns:1fr 1fr}.udp-intro{flex-direction:column;align-items:flex-start;gap:20px}}
-@media(max-width:620px){.udp-grid{grid-template-columns:1fr}.udp-card img{max-width:220px}}
+@media(max-width:620px){.udp-grid{grid-template-columns:1fr}.udp-card img{max-width:260px;margin-inline:auto}}
+.udp-views{color:var(--muted);font-weight:600;letter-spacing:.05em}
