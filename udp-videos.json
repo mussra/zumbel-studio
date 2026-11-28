@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-28T01:29:21+00:00",
+  "updated": "2026-11-28T15:37:47+00:00",
   "channel": "https://www.youtube.com/@undatopixelado",
   "videos": [
     {
       "id": "JyUvDi9D8DE",
       "title": "Una nube pesa unas 500 toneladas",
-      "views": 536,
+      "views": 530,
       "published": "2026-11-27T16:02:30+00:00",
       "url": "https://www.youtube.com/shorts/JyUvDi9D8DE",
       "thumb": "https://i.ytimg.com/vi/JyUvDi9D8DE/hqdefault.jpg"
@@ -13,7 +13,7 @@
     {
       "id": "YiDpDBSKdVM",
       "title": "¿Por qué hay estaciones? No es la distancia al Sol",
-      "views": 283,
+      "views": 284,
       "published": "2026-11-26T06:52:20+00:00",
       "url": "https://www.youtube.com/shorts/YiDpDBSKdVM",
       "thumb": "https://i.ytimg.com/vi/YiDpDBSKdVM/hqdefault.jpg"
@@ -33,14 +33,6 @@
       "published": "2026-11-26T07:08:57+00:00",
       "url": "https://www.youtube.com/shorts/Elq4gQ41rfk",
       "thumb": "https://i.ytimg.com/vi/Elq4gQ41rfk/hqdefault.jpg"
-    },
-    {
-      "id": "9BUtVn5rOdo",
-      "title": "El Sol no es amarillo, es blanco",
-      "views": 4,
-      "published": "2026-11-27T19:13:13+00:00",
-      "url": "https://www.youtube.com/shorts/9BUtVn5rOdo",
-      "thumb": "https://i.ytimg.com/vi/9BUtVn5rOdo/hqdefault.jpg"
     },
     {
       "id": "wfVdppoIMTo",
@@ -73,6 +65,14 @@
       "published": "2026-11-27T19:20:18+00:00",
       "url": "https://www.youtube.com/shorts/nl1kIJBrhHM",
       "thumb": "https://i.ytimg.com/vi/nl1kIJBrhHM/hqdefault.jpg"
+    },
+    {
+      "id": "9BUtVn5rOdo",
+      "title": "El Sol no es amarillo, es blanco",
+      "views": 2,
+      "published": "2026-11-27T19:13:13+00:00",
+      "url": "https://www.youtube.com/shorts/9BUtVn5rOdo",
+      "thumb": "https://i.ytimg.com/vi/9BUtVn5rOdo/hqdefault.jpg"
     },
     {
       "id": "kHpaQV1SKss",
